@@ -28,7 +28,7 @@ class Bootstrap {
         });
         server.start();
         server.join();
-        System
+        System.out.println();
     }
 
     public static int getPort() throws Exception {
